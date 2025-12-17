@@ -111,7 +111,7 @@
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/vuthienbao345/EduPlatform-Django.git
+git clone https://github.com/simoncampos1022/EduPlatform-Django.git
 cd EduPlatform-Django
 
 # Start the application
